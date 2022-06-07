@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Dev Matheus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 06 Jun 2022 22:11:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2022 22:36:51 -0300</lastBuildDate>
     
 	<atom:link href="https://devmatheus07.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Segundo Post</title>
+      <link>https://devmatheus07.github.io/myblog/segundo-post/</link>
+      <pubDate>Mon, 06 Jun 2022 22:36:51 -0300</pubDate>
+      
+      <guid>https://devmatheus07.github.io/myblog/segundo-post/</guid>
+      <description>Titulo principal 2 teste 2 Conteudo 2</description>
+    </item>
     
     <item>
       <title>Primeiro Post</title>
